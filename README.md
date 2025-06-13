@@ -1,6 +1,8 @@
+<h2 align="center">Hello! Welcome to my profile</h2>
 <h3 align="center">Full Stack Engineer with a sharp eye for design</h3>
+<!-- commenting out some things, will clean this up later -->
 
-/* <h3 align="left">Connect with me:</h3> */
+<!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
 </p>
 
@@ -119,6 +121,7 @@
   </a> 
 </p>
 
+<!--
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeahx1000&show_icons=true&locale=en&layout=compact" alt="yeahx1000" />
 </p>
@@ -126,3 +129,4 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yeahx1000&" alt="yeahx1000" />
 </p>
+-->
